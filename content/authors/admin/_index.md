@@ -70,6 +70,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Qijia LIAO is a third-year PhD student in Marketing at the University of Liverpool Management School. His PhD Projects examine how brand activism affects consumer behaviors. Besides his PhD projects, Qijia is interested in various quantitative methods and tools, such as R for text analysis and R markdown for generating reproducible experimental results. Currently, he is studying machineing learning using Python.
+Qijia Liao is currently in the third year of his PhD program in Marketing at the University of Liverpool Management School. His research focuses on exploring the impact of brand activism on consumer behaviors. In addition to his PhD projects, Qijia has a keen interest in diverse quantitative methods and tools, including using R for text analysis and R Markdown for producing reproducible experimental results. Currently, he is delving into the study of machine learning using Python.
 {style="text-align: justify;"}
