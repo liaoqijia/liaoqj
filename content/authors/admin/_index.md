@@ -22,64 +22,54 @@ organizations:
     url: https://www.liverpool.ac.uk/management/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Brand Activism, Experimental Design, Text Analysis etc.
+bio: My research interests include Brand Activism, Consumer Behavior and Text Analysis. I am a fan of R and RStudio. I am currently learning Python.
 
 # Interests to show in About widget
 interests:
   - Brand Activism
   - Consumer Behavior
-  - Text Analysis
+  - Text Analysis, Word Embedding
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD Student in Marketing
-      institution: University of Liverpool Management School
-      year: 2021-2025
-    - course: MBA
-      institution: University of Macau
-      year: 2017-2020
-
+      institution: University of Liverpool
+      year: 2025
+      
+      
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    items:
+      - name: R and R Markdown
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
+      - name: Python
+        description: ''
+        percent: 10
+        icon: database
+        icon_pack: fas
+    
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=s2lwLxMAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/liaoqijia/?originalSubdomain=uk
+  
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. {style="text-align: justify;"}
-
-
-
-
-
-
-
-
+Qijia LIAO is a third-year PhD student in Marketing at the University of Liverpool Management School. His PhD Projects examine how brand activism affects consumer behaviors. Besides his PhD projects, Qijia is interested in various quantitative methods and tools, such as R for text analysis and R markdown for generating reproducible experimental results. 
+{style="text-align: justify;"}
