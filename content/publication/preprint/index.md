@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "A bibliometric and content analysis of marketing-finance interface research from 1986--2021"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2023-12-10T00:00:00Z"
+doi: "10.1080/08963568.2023.2263984"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This article applies bibliometric analysis and content analysis in
+Marketing-Finance interface research. In the bibliometric analysis, the authors applied performance analysis and science mapping to analyze the research themes and the thematical evolvement between 1986 and 2021. In the content analysis, the authors analyze articles published between 2017 and 2021 to reveal new topics, new methods, and potential gaps for future research..
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
